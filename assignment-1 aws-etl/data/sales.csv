@@ -1,0 +1,9 @@
+sale_id,sale_date,product_id,product_name,category,quantity,unit_price,sales_amount
+S001,2026-01-01,P101,Laptop,Electronics,2,50000,100000
+S002,2026-01-02,P102,Mouse,Accessories,5,500,2500
+S003,2026-01-03,P103,Keyboard,Accessories,3,1000,3000
+S004,2026-01-04,P101,Laptop,Electronics,1,50000,50000
+S005,2026-01-05,P104,Monitor,Electronics,2,0,0
+S006,2026-01-06,P102,Mouse,Accessories,4,500,2000
+S007,2026-01-07,P105,USB Cable,Accessories,10,100,1000
+S008,2026-01-08,P103,Keyboard,Accessories,2,1000,2000
